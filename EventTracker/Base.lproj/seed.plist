@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>calendar</key>
+		<string>Calendar</string>
+		<key>date</key>
+		<string> </string>
+		<key>detail</key>
+		<string>Acme Heating Oil.  500 litres.  £300.00.</string>
+		<key>name</key>
+		<string>Example: Bought Home Heating Oil</string>
+	</dict>
+	<dict>
+		<key>calendar</key>
+		<string>Calendar</string>
+		<key>date</key>
+		<string> </string>
+		<key>detail</key>
+		<string>Full service at dealership, plus 4 new tyres and brake pads changed.  Cost £320.00.</string>
+		<key>name</key>
+		<string>Example: Got Car Serviced</string>
+	</dict>
+	<dict>
+		<key>calendar</key>
+		<string>Calendar</string>
+		<key>date</key>
+		<string></string>
+		<key>detail</key>
+		<string>Bought Hotpoint Washing Machine from ABC ltd.  £359.</string>
+		<key>name</key>
+		<string>Example: Home Purchase</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  EventTracker
+
+  Created by Kevin McCafferty on 13/11/2013.
+  Copyright (c) 2013 Kevin McCafferty. All rights reserved.
+*/
+
+"Edit" = "Edit";
+"month" = "month";
+"months" = "months";
+"day" = "day";
+"days" = "days";
+"hour" = "hour";
+"hours" = "hours";
+"min" = "min";
+"mins" = "mins";
+"Today at" = "Today at";
+"Posted to calendar" = "Posted to calendar";
+"Occurrance successfully posted to calendar." = "Occurrance successfully posted to calendar.";
+"Ok" = "Ok";
+"No Calendar Access" = "No Calendar Access";
+"Please allow access to Calendars via Settings > Privacy > Calendars." = "Please allow access to Calendars via Settings > Privacy > Calendars.";
+"Cancel" = "Cancel";
+"Calendar Not Found!" = "Calendar Not Found!";
+"Please edit and select available calendar." = "Please edit and select available calendar.";
+"No History" = "No History";
+"No matching items in calendar." = "No matching items in calendar.";
+"OK" = "OK";
+"No Name" = "No Name";
+"Please enter an Event Name." = "Please enter an Event Name.";

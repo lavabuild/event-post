@@ -1,0 +1,72 @@
+
+/* Class = "IBUINavigationItem"; title = "Events"; ObjectID = "2uO-tQ-Sxn"; */
+"2uO-tQ-Sxn.title" = "Geschehen";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2zd-R9-pja"; */
+"2zd-R9-pja.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Calendar"; ObjectID = "31s-Nu-3I0"; */
+"31s-Nu-3I0.text" = "Kalender";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4Jp-bx-bGM"; */
+"4Jp-bx-bGM.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "Event Name"; ObjectID = "9jI-sR-D4H"; */
+"9jI-sR-D4H.placeholder" = "Ereignis Name";
+
+/* Class = "IBUIButton"; normalTitle = "Select"; ObjectID = "AOO-Xa-BWw"; */
+"AOO-Xa-BWw.normalTitle" = "wählen";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "EyX-aT-x70"; */
+"EyX-aT-x70.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "KIX-eS-EiS"; */
+"KIX-eS-EiS.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Kt5-Mo-LlR"; */
+"Kt5-Mo-LlR.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "History"; ObjectID = "Pep-c7-97Z"; */
+"Pep-c7-97Z.title" = "Historie";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Sk8-Ox-HkN"; */
+"Sk8-Ox-HkN.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Edit Details"; ObjectID = "Tg3-at-f5n"; */
+"Tg3-at-f5n.title" = "editieren";
+
+/* Class = "IBUINavigationItem"; title = "New Event"; ObjectID = "UTE-2B-u67"; */
+"UTE-2B-u67.title" = "New Ereignis";
+
+/* Class = "IBUINavigationItem"; title = "Post Event"; ObjectID = "UxU-Ao-8ry"; */
+"UxU-Ao-8ry.title" = "Sende Ereignis";
+
+/* Class = "IBUILabel"; text = "Ago"; ObjectID = "ZhH-AI-BNb"; */
+"ZhH-AI-BNb.text" = "Ago";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "cR8-C6-XKX"; */
+"cR8-C6-XKX.normalTitle" = "stornieren";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hYW-5J-om6"; */
+"hYW-5J-om6.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Select Date"; ObjectID = "hzS-iq-82S"; */
+"hzS-iq-82S.normalTitle" = "Datum";
+
+/* Class = "IBUILabel"; text = "Details"; ObjectID = "sS1-Hg-XRn"; */
+"sS1-Hg-XRn.text" = "Einzelheiten";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "spE-dd-fXt"; */
+"spE-dd-fXt.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Post to"; ObjectID = "t5c-5e-N0k"; */
+"t5c-5e-N0k.text" = "Sende zu";
+
+/* Class = "IBUILabel"; text = " "; ObjectID = "tS6-mG-KHl"; */
+"tS6-mG-KHl.text" = " ";
+
+/* Class = "IBUIBarButtonItem"; title = "back"; ObjectID = "xjb-aS-IUm"; */
+"xjb-aS-IUm.title" = "zurück";
+
+/* Class = "IBUILabel"; text = "Calendar"; ObjectID = "yUg-d2-hXc"; */
+"yUg-d2-hXc.text" = "Kalender";

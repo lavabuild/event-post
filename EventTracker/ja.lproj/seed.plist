@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>calendar</key>
+		<string>カレンダー</string>
+		<key>date</key>
+		<string> </string>
+		<key>detail</key>
+		<string>Acme 加熱用オイル.  500 リットル </string>
+		<key>name</key>
+		<string>例 買った ホーム 加熱用オイル</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  EventTracker
+
+  Created by Kevin McCafferty on 13/11/2013.
+  Copyright (c) 2013 Kevin McCafferty. All rights reserved.
+*/
+
+"Edit" = "编辑";
+"month" = "月";
+"months" = "个月";
+"day" = "天";
+"days" = "天内";
+"hour" = "小时";
+"hours" = "个小时";
+"min" = "分钟";
+"mins" = "分钟";
+"Today at" = "今天";
+"Posted to calendar" = "发表于日历";
+"Occurrance successfully posted to calendar." = "成功地张贴到日历.";
+"Ok" = "好";
+"No Calendar Access" = "没有日历访问";
+"Please allow access to Calendars via Settings > Privacy > Calendars." = "请允许访问日历通过设置>隐私>日历.";
+"Cancel" = "取消";
+"Calendar Not Found!" = "日历未找到!";
+"Please edit and select available calendar." = "请编辑并选择可用日历.";
+"No History" = "没有历史";
+"No matching items in calendar." = "在日历没有匹配的项.";
+"OK" = "好";
+"No Name" = "没有名字";
+"Please enter an Event Name." = "请输入活动名称.";
